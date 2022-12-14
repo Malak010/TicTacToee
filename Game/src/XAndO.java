@@ -237,14 +237,7 @@ import java.util.Scanner;
             System.out.println("-----------------");
         }
     }
-		
-		
-		//System.out.println(" ");
-		//System.out.println(gBoard[0][0] + " | " + gBoard[0][1] + " | " + gBoard[0][2]);//Display Row no.1
-		//System.out.println("-----------");
-		//System.out.println(gBoard[1][0] + " | " + gBoard[1][1] + " | " + gBoard[1][2]);//Display Row no.2
-		//System.out.println("-----------");
-		//System.out.println(gBoard[2][0] + " | " + gBoard[2][1] + " | " + gBoard[2][2]);//Display Row no.3
-	}
+	
+ }
 
 
