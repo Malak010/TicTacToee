@@ -237,7 +237,12 @@ import java.util.Scanner;
             System.out.println("-----------------");
         }
     }
+<<<<<<< HEAD
 		
 	}
+=======
+	
+ }
+>>>>>>> 68a3b29794a7397e5fbccb0ac2dc109bb9f0d26b
 
 
