@@ -217,5 +217,4 @@ class XAndO {
 			System.out.println("-----------------");
 		}
 	}
-	}
-
+}
